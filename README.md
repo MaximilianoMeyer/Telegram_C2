@@ -16,7 +16,3 @@
 	"runtime"
 	"strconv"
 	"strings"
-
-# Instalação
-
-    go get dependence
