@@ -145,7 +145,5 @@ No license is currently specified for this project. All rights reserved by the a
 ---
 
 <p align="center">
-  <a href="https://readmebot.dev?utm_source=readme_badge&utm_medium=github">
-    <img src="https://readmebot.dev/badge.svg" alt="Docs by ReadmeBot" height="20">
   </a>
 </p>
